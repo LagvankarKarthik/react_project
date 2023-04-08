@@ -12,7 +12,6 @@ function App() {
     <About/>
     {/* <TextForm heading = "Enter the text to analyze"/> */}
   </div>
-
 </>
 
   );
